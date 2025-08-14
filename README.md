@@ -8,8 +8,8 @@ This project is a deep learning-based application that classifies handwritten di
 
 - **Source**: Built-in MNIST dataset from `tensorflow.keras.datasets`
 - **Data Format**:
-  - 60,000 training images
-  - 10,000 test images
+  - 259,000 training images
+  - 60,000 test images
   - Grayscale 28x28 pixel handwritten digits
 - **Classes**: 10 (Digits from 0 to 9)
 
